@@ -137,11 +137,11 @@ Pins _pinList {
 	.pinDu = _pinDu,
 	.pinDl = _pinDl,
 	.pinDd = _pinDd,
-	.pinX  = _pinX,
+	.pinX  = _pinA,
 	.pinY  = _pinY,
-	.pinA  = _pinA,
+	.pinA  = _pinX,
 	.pinB  = _pinB,
-	.pinZ  = _pinZ,
+	.pinZ  = _pinA,
 	.pinS  = _pinS
 };
 
